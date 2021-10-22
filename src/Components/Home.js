@@ -16,7 +16,7 @@ function Home() {
   const fetchData =async ()=>{
     const res = await axios.get(url)
      setstate(res.data.hits)
-    console.log(res.data)
+    
     
 
   }
