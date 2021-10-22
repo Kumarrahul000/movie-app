@@ -36,3 +36,39 @@
     transform: rotate(360deg);
   }
 }
+
+.form {
+  width: 60%;
+  padding: 7px  ;
+  border-radius: 6px;
+}
+.form1 {
+  padding: 9px;
+  border-radius: 6px;
+  width: 82px;
+  border: none;
+}
+p {
+  margin-top: 11px !important;
+  margin-bottom: 1rem;
+}
+
+.bg {
+  background-color: #ff8000 !important;
+  color: #fff;
+  width: 100px;
+  padding: 9px;
+  border: none;
+  border-radius: 8px;
+}
+.change{
+  border: none !important;
+  outline: none !important;
+  width: 150px;
+}
+
+h1{
+  color: #ff8000;
+  font-family: sans-serif serif;
+  font-weight: 700;
+}
